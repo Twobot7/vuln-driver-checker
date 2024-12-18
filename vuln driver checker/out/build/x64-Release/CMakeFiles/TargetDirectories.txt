@@ -1,0 +1,3 @@
+C:/Users/skip-/Desktop/vuln driver checker/out/build/x64-Release/CMakeFiles/VulnDriverScanner.dir
+C:/Users/skip-/Desktop/vuln driver checker/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/skip-/Desktop/vuln driver checker/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
